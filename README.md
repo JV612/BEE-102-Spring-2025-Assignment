@@ -19,18 +19,18 @@ This assignment delves into six key questions related to the course. It emphasiz
 
 ### Questions
 
-1. **Fragment Length Frequency** (1 mark)  
-    Includes rescaling techniques (2 marks).  
+1. **Normalizing Fragment Length Frequency  
+    along with rescaling techniques.**
 
-2. **Building a Markov Transition Matrix** (1 mark)  
+2. **Building a Markov Transition Matrix**
 
-3. **Converting Multi-line FASTA to Single-line FASTA** (1 mark)  
+3. **Converting Multi-line FASTA to Single-line FASTA**
 
-4. **Implementing the Viterbi Algorithm for Primer Analysis** (3 marks)  
+4. **Implementing the Viterbi Algorithm for Primer Analysis**
 
-5. **Generating a V-Plot** (1 mark)  
+5. **Generating a V-Plot** 
 
-6. **Performing Principal Component Analysis (PCA)** (2 marks)  
+6. **Performing Principal Component Analysis (PCA)** 
 
 ---
 
