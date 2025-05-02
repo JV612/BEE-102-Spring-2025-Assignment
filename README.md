@@ -1,2 +1,45 @@
 # BEE-102-Spring-2025-Assignment
-solution of assignment containing question regarding Machine learning applications in computational Biology
+
+### Details
+
+- **Name**: Jay Vaghasiya  
+- **Enrollment No.**: 23114104
+- **Email**: vaghasiya_jr@cs.iitr.ac.in
+- **Branch & Year**: CSE, 2nd Year  
+- **Course**: BEE-102  
+- **Professor**: Satyanarayan Rao
+
+---
+
+### Assignment Overview
+
+This assignment delves into six key questions related to the course. It emphasizes the application of machine learning techniques in computational biology, offering insights into practical scenarios and problem-solving methodologies.
+
+---
+
+### Questions
+
+1. **Fragment Length Frequency** (1 mark)  
+    Includes rescaling techniques (2 marks).  
+
+2. **Building a Markov Transition Matrix** (1 mark)  
+
+3. **Converting Multi-line FASTA to Single-line FASTA** (1 mark)  
+
+4. **Implementing the Viterbi Algorithm for Primer Analysis** (3 marks)  
+
+5. **Generating a V-Plot** (1 mark)  
+
+6. **Performing Principal Component Analysis (PCA)** (2 marks)  
+
+---
+
+### Note
+
+This repository does not include testing data files. To test the provided code, ensure all required files are placed in the same main folder as the code before execution.
+
+---
+
+### Acknowledgment
+
+Thank you for reviewing this assignment.
